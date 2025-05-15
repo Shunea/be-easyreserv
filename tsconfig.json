@@ -1,0 +1,23 @@
+{
+  "compilerOptions": {
+    "module": "commonjs",
+    "declaration": true,
+    "removeComments": true,
+    "emitDecoratorMetadata": true,
+    "experimentalDecorators": true,
+    "allowSyntheticDefaultImports": true,
+    "target": "es2019",
+    "sourceMap": true,
+    "outDir": "./dist",
+    "baseUrl": "./",
+    "incremental": true,
+    "noImplicitAny": false,
+    "newLine": "lf",
+    "paths": {
+      "@src/*": ["src/*"]
+    },
+    "types": ["node", "glob"],
+  },
+  "include": ["src/**/*.ts"],
+  "exclude": ["node_modules"]
+}

@@ -1,0 +1,6 @@
+export enum PlaceType {
+  RESTAURANT = 'RESTAURANT',
+  BEAUTY_SALON = 'BEAUTY_SALON',
+  CAR_WASH = 'CAR_WASH',
+  HOTEL = 'HOTEL',
+}

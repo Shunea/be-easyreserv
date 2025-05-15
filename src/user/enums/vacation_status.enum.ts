@@ -1,0 +1,8 @@
+export enum VacationStatus {
+  WAITING = 'WAITING',
+  APPROVED = 'APPROVED',
+  DECLINED = 'DECLINED',
+  IN_PROGRESS = 'IN_PROGRESS',
+  PENDING = 'PENDING',
+  ENDED = 'ENDED',
+}

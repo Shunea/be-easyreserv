@@ -1,0 +1,6 @@
+export enum StaffStatus {
+  HOLIDAY = 'HOLIDAY',
+  DAY_OFF = 'DAY_OFF',
+  WORKING = 'WORKING',
+  WAITING_INVITE = 'WAITING_INVITE',
+}

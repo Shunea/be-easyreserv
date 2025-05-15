@@ -1,0 +1,7 @@
+export enum Doneness {
+  RARE = 'RARE',
+  MEDIUM_RARE = 'MEDIUM_RARE',
+  MEDIUM = 'MEDIUM',
+  MEDIUM_WELL = 'MEDIUM_WELL',
+  WELL_DONE = 'WELL_DONE'
+} 

@@ -1,0 +1,9 @@
+export enum CourseType {
+  COURSE_1 = 'COURSE_1',
+  COURSE_2 = 'COURSE_2',
+  COURSE_3 = 'COURSE_3',
+  COURSE_4 = 'COURSE_4',
+  COURSE_5 = 'COURSE_5',
+  COURSE_6 = 'COURSE_6',
+  VIP_COURSE = 'VIP_COURSE'
+} 
